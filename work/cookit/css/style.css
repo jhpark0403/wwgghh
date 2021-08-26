@@ -265,7 +265,7 @@ background-color: #000; color:#fff;
    .bnrs_inner a{margin-left:0;}
    .bnrs_inner a:first-child{margin-bottom:20px;}
    .tabs{height:auto;}
-   .tab_conts{height:auto;border: 1px solid red;}
+   .tab_conts{height:auto;}
    .best>li:last-child{
     display:none;}
     .review{flex-direction:column;}
